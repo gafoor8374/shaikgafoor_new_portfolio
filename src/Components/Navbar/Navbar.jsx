@@ -54,7 +54,7 @@ const Navbar = () => {
       }}
     >
       <div className={styles.navbar}>
-        <a href="https://ShaikGafoor.vercel.app/">
+        <a href="https://shaikgafoor.vercel.app/">
           {/* deployed link */}
           <div className={styles.logo}>
             <img
